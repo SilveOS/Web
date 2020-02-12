@@ -1,0 +1,41 @@
+{
+  "name": "SilveOS.com",
+  "short_name": "SilveOS",
+  "description": "SilveOS.com - Vue based internet operating system or webtop. It provides an environment similar to that of Windows inside web browser.",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "icons/silveos-icon-120x120.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "icons/silveos-icon-152x152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "icons/silveos-icon-180x180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "icons/silveos-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/silveos-icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "theme_color": "#424242",
+  "background_color": "#1292e5",
+  "display": "standalone",
+  "start_url": "index.html"
+}
